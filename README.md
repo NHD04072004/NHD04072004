@@ -1,10 +1,12 @@
 <h1 align="center">Hello 👋, I'm Nguyen Hai Dang</h1>
-<h3 align="center">I'm studying AI</h3>
+<h3 align="center">I'm studying Data Science & AI</h3>
 
 
-- 👀 I have excellently won the encouragement prize in the open source competition of the 32nd Vietnam Student Informatics Competition.
+- 👀 I have excellently won the encouragement prize in the open source competition of the 32th Vietnam Student Informatics Competition.
 
-- 💬 Ask me about **Computer vision, Image Processing, Machine learning, Deep learning**
+- 👀 I have excellently won 2nd prize in the open source competition of the 33th Vietnam Student Informatics Competition.
+
+- 💬 Ask me about **Data science, Computer vision, Image Processing, Machine learning, Deep learning**
 
 - 📫 How to reach me **nguyenhaidang04072004@gmail.com**
 
