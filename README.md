@@ -25,3 +25,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NHD04072004&show_icons=true&locale=en&layout=compact" alt="NHD04072004" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NHD04072004)](https://github-readme-streak-stats.herokuapp.com?user=NHD04072004)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NHD04072004/NHD04072004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NHD04072004/NHD04072004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NHD04072004/NHD04072004/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
