@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NHD04072004&show_icons=true&locale=en" alt="NHD04072004" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NHD04072004&show_icons=true&locale=en&layout=compact" alt="NHD04072004" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NHD04072004)](https://github-readme-streak-stats.herokuapp.com?user=NHD04072004)
